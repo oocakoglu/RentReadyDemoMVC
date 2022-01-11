@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RentReady.Sample.DataAccess\RentReady.Sample.DataAccess.csproj" />
+    <ProjectReference Include="..\RentReady.Sample.Entities\RentReady.Sample.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
